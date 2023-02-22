@@ -1,3 +1,8 @@
+
+https://www.figma.com/file/UOeEABIGQO5ghQ643h9xAS/Untitled?node-id=0%3A1&t=glHbHgB6qJkaHAak-1
+
+
+
 # Movie List Uppgift
 
 Designa en webbsida som effektivt hämtar och presenterar filmdata från en API endpoint. Webbsidan skall inkludera verktyg för att filtrera filmer enligt användarens önskemål. Det skall också gå att välja en viss film, en skild sida, som visar end bild och mera information om just den filmen.
